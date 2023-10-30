@@ -1,8 +1,10 @@
 # Advanced Dialog and Menu vB User Manual (version 0.9)
-<img width="382" alt="Screenshot 2023-10-28 at 8 06 14 PM" src="https://github.com/dochardware/Advanced-Dialog-and-Menu/assets/1316677/32ca842d-5ac0-4f54-81ea-4d2d27e303ce">
-<img width="382" alt="Screenshot 2023-10-28 at 8 05 59 PM" src="https://github.com/dochardware/Advanced-Dialog-and-Menu/assets/1316677/1be47e72-04f0-4be4-af6c-2ff0093405b0">
+
+https://github.com/dochardware/Advanced-Dialog-and-Menu/assets/1316677/08bb50b8-64b4-4c7f-a5a7-516da3b803a9
 
 Advanced Menu and Advanced Dialog are designed to add more flexibility with drawing text and text boxes to the overlay but maintaining the ease of use. The plugin utilizes the ability to copy background tiles to the window layer (overlay) to create the *illusion* of placing dialog and text boxes anywhere on screen. This is normally not possible in GB Studio by default.
+<img width="382" alt="Screenshot 2023-10-28 at 8 06 14 PM" src="https://github.com/dochardware/Advanced-Dialog-and-Menu/assets/1316677/32ca842d-5ac0-4f54-81ea-4d2d27e303ce">
+<img width="382" alt="Screenshot 2023-10-28 at 8 05 59 PM" src="https://github.com/dochardware/Advanced-Dialog-and-Menu/assets/1316677/1be47e72-04f0-4be4-af6c-2ff0093405b0">
 <img width="382" alt="Screenshot 2023-10-28 at 8 05 39 PM" src="https://github.com/dochardware/Advanced-Dialog-and-Menu/assets/1316677/416952eb-76d4-41f8-b0b5-840026046faf">
 <img width="384" alt="Screenshot 2023-10-28 at 8 05 26 PM" src="https://github.com/dochardware/Advanced-Dialog-and-Menu/assets/1316677/0a3546e5-53bc-4d47-ad49-0f12ed388cf7">
 
