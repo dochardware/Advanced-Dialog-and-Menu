@@ -1,4 +1,4 @@
-const id = "PT_EVENT_ADVANCED_DIALOGUE";
+const id = "PT_EVENT_ADVANCED_DIALOGUE_vB";
 const groups = ["Plugin Pak", "EVENT_GROUP_DIALOGUE"];
 const name = "Display Advanced Dialogue Version B";
 
