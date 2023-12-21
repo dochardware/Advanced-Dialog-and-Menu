@@ -1,5 +1,5 @@
 const id = "PT_EVENT_ADVANCED_MENU";
-const groups = ["Plugin Pak", "EVENT_GROUP_DIALOGUE"];
+const groups = ["B-Sides", "EVENT_GROUP_DIALOGUE"];
 const name = "Display Advanced Menu 2.0";
 
 const MAX_OPTIONS = 16;
