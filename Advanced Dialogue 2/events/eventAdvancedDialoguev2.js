@@ -1,5 +1,5 @@
 const id = "PT_EVENT_ADVANCED_DIALOGUE_vB";
-const groups = ["Plugin Pak", "EVENT_GROUP_DIALOGUE"];
+const groups = ["B-Sides", "EVENT_GROUP_DIALOGUE"];
 const name = "Display Advanced Dialogue Version B";
 
 const wrap8Bit = (val) => (256 + (val % 256)) % 256;
