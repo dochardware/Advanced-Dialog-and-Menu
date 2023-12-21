@@ -1,4 +1,4 @@
-const id = "PT_EVENT_ADVANCED_MENU_vB";
+const id = "PT_EVENT_ADVANCED_MENU";
 const groups = ["Plugin Pak", "EVENT_GROUP_DIALOGUE"];
 const name = "Display Advanced Menu 2.0";
 
