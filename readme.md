@@ -1,4 +1,4 @@
-# Advanced Dialog and Menu vB User Manual (version 0.9)
+# Advanced Dialog and Menu vB User Manual (version 1.0)
 
 https://github.com/dochardware/Advanced-Dialog-and-Menu/assets/1316677/08bb50b8-64b4-4c7f-a5a7-516da3b803a9
 
