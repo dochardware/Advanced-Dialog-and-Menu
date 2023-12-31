@@ -35,7 +35,7 @@ These are based on [Pautomas' Plugin Pack](https://github.com/pau-tomas/gb-studi
 
 - **Number of Options** - Number of menu items
 
-- **Set variable to '*n*' if** - Menu item name. This field accepts [GBVM control codes](https://gbstudiolab.neocities.org/guides/gbvm-overlay-hud-2) and variables (syntax: $001$, $L01$, #001#)
+- **Set variable to '*n*' if** - Menu item name. This field accepts [GBVM control codes](https://gbstudiolab.neocities.org/guides/gbvm-overlay-hud-2) and variables (syntax: `$001$`, `$L01$`, `#001#`)
 
 - **Text Position X/Y** - Sets the position of menu option on screen
 
