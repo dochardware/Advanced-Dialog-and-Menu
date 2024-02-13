@@ -1,6 +1,6 @@
 const id = "BR_EVENT_ADVANCED_MENU";
 const groups = ["B-Sides", "EVENT_GROUP_DIALOGUE"];
-const name = "Display Advanced Menu 2.0";
+const name = "Display Advanced Menu Ver. B";
 
 const MAX_OPTIONS = 16;
 
@@ -414,10 +414,10 @@ const compile = (input, helpers) => {
       }
     });
 
-  const menuWidth = input.width || 7;
-  const menuHeight = input.height || 5;
-  const boxX = input.boxX || 6;
-  const boxY = input.boxY || 4;
+  const menuWidth = input.width || 1;
+  const menuHeight = input.height || 1;
+  const boxX = input.boxX || 0;
+  const boxY = input.boxY || 0;
   const showActors = input.showActors;
   const variableAlias = getVariableAlias(input.variable);
   const showBorder = input.showBorder;
