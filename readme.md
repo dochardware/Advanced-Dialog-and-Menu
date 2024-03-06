@@ -9,6 +9,9 @@ These are based on [Pautomas' Plugin Pack](https://github.com/pau-tomas/gb-studi
 <br>
 ## How It Works
 
+https://github.com/dochardware/Advanced-Dialog-and-Menu/assets/1316677/e62c575b-7702-4475-8ef9-c80a02db5277
+
+
 <img width=70% height=70% src="https://github.com/dochardware/Advanced-Dialog-and-Menu/assets/1316677/611b816a-6b26-4d8a-ad41-a954c2a1bd11">
 <img width=70% height=70% src="https://github.com/dochardware/Advanced-Dialog-and-Menu/assets/1316677/66c1f342-c303-48f0-a6c9-4211d87881a1">
 <img width=70% height=70% src="https://github.com/dochardware/Advanced-Dialog-and-Menu/assets/1316677/5d012898-8bfd-4fef-a337-97b04c60b920">
